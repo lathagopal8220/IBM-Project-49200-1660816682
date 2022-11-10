@@ -1,0 +1,14 @@
+PRIOR KNOWLEDGE
+
+
+
+One should have knowledge on the following concepts
+
+       *Supervised and Unsupervised learning 
+
+       *Regression Classification and Clustering
+
+       *Random Forest
+
+       *Flask
+          
